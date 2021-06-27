@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562048000592",
+    "project_id": "ivoting-b5d58",
+    "storage_bucket": "ivoting-b5d58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562048000592:android:e75f2975b72aa79fa66755",
+        "android_client_info": {
+          "package_name": "com.app.ivoting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562048000592-9uvf2ftoqcrqcj0vld63mgi1gq1pfdo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC39ClkuJCYryabOj277okWJ06kSRg4_JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562048000592-9uvf2ftoqcrqcj0vld63mgi1gq1pfdo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
